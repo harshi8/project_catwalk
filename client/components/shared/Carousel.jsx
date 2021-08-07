@@ -2,8 +2,8 @@ import React, {useState, useEffect} from 'react';
 import styled from 'styled-components';
 import { AiOutlineArrowLeft, AiOutlineArrowRight, AiOutlineExpand } from 'react-icons/ai';
 import ModularCarousel from './Modular-Carousel.jsx'
-//component styles
 
+//component styles
 const SlideWrapper = styled.div`
   width: 100%;
   height: 100%;

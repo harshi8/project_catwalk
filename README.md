@@ -47,3 +47,11 @@ I'm a full-stack developer with a background in cognitive science. I enjoy probl
 
 **Developer Tools** | Vim, Git, npm, Nx, Webpack, Babel, Agile Methodology, Scrum, TDD
   
+## Authors
+
+- [@harshi8](https://www.github.com/harshi8)
+- [@smcgovern-proj](https://www.github.com/smcgovern-proj)
+- [@tobefranklyspeaking](https://www.github.com/tobefranklyspeaking)
+- [@clendon](https://www.github.com/clendon)
+
+  
